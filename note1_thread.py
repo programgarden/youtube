@@ -1,8 +1,8 @@
 # 단일 동작
-# def example_fnc():
-#     print("단일 동작")
-#
-# example_fnc()
+def example_fnc():
+    print("단일 동작")
+    
+example_fnc()
 
 
 
