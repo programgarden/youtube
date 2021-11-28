@@ -1,12 +1,12 @@
 # 프로그램 동산
 많은 사람들의 삶을 개선 시켜주는 다양한 프로그램 교육을 무료로 제공하는 학습 커뮤니티
-<br>
+<br><br><br>
 ## 유튜브
 https://www.youtube.com/c/프로그램동산PROGRAMGARDEN
-<br>
+<br><br><br>
 ## 구독자들 학습 커뮤니티
 https://cafe.naver.com/programgarden/
-<br>
+<br><br><br>
 ## 폴더와 연관된 강의 목록
 ### *증권 시스템 온라인 강의*
 | 제목 | 난이도 | 강의 설명 |
