@@ -1,3 +1,24 @@
+'''
+파이썬 버전
+
+python 3.6 이상
+
+필요 모듈
+websockets 설치
+asyncio 설치
+json 설치
+PyJWT설치
+urllib 설치
+​
+
+참조문서 모음
+https://docs.upbit.com/docs/create-authorization-request
+https://pyjwt.readthedocs.io/en/stable/usage.html
+https://websockets.readthedocs.io/en/stable/faq.html?highlight=ping_timeout#how-do-i-keep-idle-connections-open
+https://sdr1982.tistory.com/269
+
+'''
+
 import requests
 
 url = "https://api.upbit.com/v1/market/all"
