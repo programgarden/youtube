@@ -1,5 +1,5 @@
 <p align="center">
- <img align="center" height="300px" src="https://media.tenor.com/ztRyBgFCYDEAAAAi/buy-degen.gif" />
+ <img align="center" style="border-radius:10px;" height="300px" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
 
  <br/>
  <h1 align="center">PROGRAM GARDEN</h1>
@@ -49,41 +49,3 @@
 <br>
 <br>
 <br>
-
-
-## 강의에서 활용 중인 언어와 기능들 💻
-### 프로그래밍 언어
-[![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,python)](https://github.com/programgarden)
-
-
-### 프론트 언어
-[![My Skills](https://skillicons.dev/icons?i=webpack,css,qt,html)](https://github.com/programgarden)
-
-
-### 백앤드 언어
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/programgarden)
-
-
-### 모바일 언어
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://github.com/programgarden)
-
-
-### DB 언어
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://github.com/programgarden) <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
-
-
-### 데이터 시각화
-<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
-
-### DevOps
-[![My Skills](https://skillicons.dev/icons?i=gcp)](https://github.com/programgarden)
-
-### Backend as a Service(BaaS)
-[![My Skills](https://skillicons.dev/icons?i=firebase)](https://github.com/programgarden)
-
-### 디자인 툴
-[![My Skills](https://skillicons.dev/icons?i=photoshop)](https://github.com/programgarden)
- <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
-
-### 그 외 소프트웨어
-[![My Skills](https://skillicons.dev/icons?i=postman,github)](https://github.com/programgarden)
