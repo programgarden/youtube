@@ -43,7 +43,7 @@
 
 -->
 ## ❤️ 스폰서 등록
-<b>일부 학습 자료는 스폰서(후원자)에게만 제공됩니다.</b><br>
+<b>스폰서 등록 후 더 다양한 학습 자료 제공과 세미나/모임에 참석 권한이 주어집니다.</b><br>
 <a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하기(Sponsor)-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=40/></a>
 [후원하고 예제코드 받기 🔗](https://github.com/sponsors/programgarden)
 <br>
