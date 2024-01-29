@@ -34,18 +34,25 @@
 <a href="https://cafe.naver.com/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/naver cafe-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" height=25/></a>
 <br>오프라인 강의/세미나/모임/정보/Q&A 공유하며 공부합니다. [@네이버 카페 🔗](https://cafe.naver.com/programgarden)
 
-<a href="https://github.com/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=25/></a>
-<br>강의를 수강하는데 필요한 자료들을 얻을 수 있습니다. [@깃허브 🔗](https://github.com/programgarden)
-
-<a href="https://programgarden.net" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/home-7AB55C.svg?&style=for-the-badge&logo=shopify&logoColor=white" height=25/></a>
-<br>프로그램 동산의 홈페이지입니다. 온라인, 오프라인 정보를 볼 수 있습니다. [@프로그램동산 🔗](https://programgarden.net)
-    
 </p>
+<br>
+
+<!--
+
+후원자 등록 방법 정리
+
+-->
+## ❤️ 스폰서 등록
+<b>일부 학습 자료는 스폰서(후원자)에게만 제공됩니다.</b><br>
+<a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하기(Sponsor)-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=40/></a>
+[후원하고 예제코드 받기 🔗](https://github.com/sponsors/programgarden)
+<br>
+<br>
 <br>
 
 ## 📝 강의 목록
 프로그램 동산은 증권 프로그래밍에 관한 다양한 프로그래밍 강의들이 있습니다. 흥미로운 강의들로 커뮤니티 사람들과 함께 발전해 보세요.
-[강의 목록 보기 🔗](https://github.com/programgarden)
+[강의 목록 보기 🔗](https://programgarden.net/collections/programgarden_lecture)
 <br>
 <br>
 <br>
