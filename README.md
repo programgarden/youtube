@@ -52,7 +52,7 @@
 
 ## 📝 강의 목록
 프로그램 동산은 증권 프로그래밍에 관한 다양한 프로그래밍 강의들이 있습니다. 흥미로운 강의들로 커뮤니티 사람들과 함께 발전해 보세요.
-[강의 목록 보기 🔗](https://programgarden.net/collections/programgarden_lecture)
+[강의 목록 보기 🔗](https://github.com/programgarden#-%EC%98%A8%EB%9D%BC%EC%9D%B8online-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EA%B0%95%EC%9D%98)
 <br>
 <br>
 <br>
